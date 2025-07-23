@@ -1,4 +1,4 @@
-const API_URL = `https://vaporcine-api-480478139545.us-east4.run.app:8080`;
+const API_URL = `https://vaporcine-api-480478139545.us-east4.run.app`;
 const API_URL_UPLOAD = `/api/upload`;
 const ON_FILE_UPLOADED = "file-uploaded";
 
