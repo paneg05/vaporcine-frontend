@@ -1,4 +1,4 @@
-const API_URL = `http://35.239.38.150`;
+const API_URL = `35.239.38.150`;
 const API_URL_UPLOAD = `/api/upload`;
 const ON_FILE_UPLOADED = "file-uploaded";
 
